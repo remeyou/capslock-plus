@@ -51,3 +51,5 @@ keyFunc_translate_cus(){
     Return
 
 }
+
+#include custom.ahk
